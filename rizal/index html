@@ -1,1 +1,16 @@
+Siap. Saya sudah buat **landing page “Rizal” dengan nuansa Tesla/EV**: minimalis, gelap, merah, modern, responsive, dan ada animasi hover.
+
+* [Download `index.html`](sandbox:/mnt/data/rizal-tesla-landing-index.html)
+* [Download `style.css`](sandbox:/mnt/data/rizal-tesla-landing-style.css)
+
+Untuk GitHub kamu, upload kedua file itu lalu pastikan nama akhirnya:
+
+```text
+index.html
+style.css
+```
+
+Setelah itu aktifkan **Settings → Pages → Deploy from a branch → main → / (root) → Save**.
+
+Saya juga bisa lanjut membuat versi **lebih premium dengan gambar mobil Tesla, animasi scroll, menu mobile, dan tombol Order Now**.
 
